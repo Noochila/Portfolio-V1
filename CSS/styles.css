@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    background-color: #caf0f8;
+    padding-top: 200px;
+    position: relative;
+
+
+}
+
+.top-img {
+    position: absolute;
+    right: 500px;
+    top: 100px;
+}
+
+.bottom-img {
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+background-color: #efefd0
+
+}
+
+.top-container h1 {
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+    color: #5fa8d3;
+}
+
+.top-container p {
+
+    color: #5fa8d3;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.profile {
+    padding: 25px;
+}
+
+.profile h2 {
+
+    margin: 10px;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+    margin: 25px;
+}
+
+.profile img {
+    width: 150px;
+    background-color: #ffecd1;
+    border-radius: 100%;
+    padding: 20px
+}
+
+.skill-row {
+    width: 25%;
+    margin: 50px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.skills img {
+    width: 25%;
+}
+
+.dev {
+    float: left;
+    margin-right: 25px;
+}
+
+.hob {
+    float: right;
+    margin-left: 25px;
+}
+
+.contact-me{
+    padding: 10px;
+    background-color: #bdd5ea;
+}
+.contact-me img {
+    width: 100px;
+    margin: 5px 20px;
+}
+
+.contact-me p {
+    text-decoration: underline;
+    font-weight: bold;
+}hr
+{
+    width: 5%;
+    margin:20px auto;
+    border-top: 5px  dotted grey;
+
+}
